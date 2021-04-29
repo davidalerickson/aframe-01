@@ -1,0 +1,15 @@
+body{
+    max-width: 1200px;
+}
+
+.img-section{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 2rem;
+}
+
+.img-card img {
+    width: 100%;
+
+
+}
